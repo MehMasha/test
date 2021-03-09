@@ -24,6 +24,7 @@ img{
 	border-right: 15px solid #4ed17b;
 	border-top: 10px solid #4ed17b;
 	border-bottom: 10px solid #4ed17b;
+	border-radius: 5px;
 }
 
 .text{
@@ -49,4 +50,5 @@ img{
 
 .cost{
 	font-size: 35px;
+	padding-bottom: 30px;
 }
