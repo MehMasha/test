@@ -1,0 +1,41 @@
+img{
+	width: 300px;
+	height: 205px;
+}
+
+.card{
+	font-family: "Roboto";
+	width: 299px;
+	border: 1px solid #e2e2e2;
+}
+
+.cart{
+	width: 50px;
+	height: 40px;
+	background-color: #4ed17b;
+}
+
+.text{
+	padding-left: 25px;
+}
+
+.p_text{
+	font-size: 15px;
+	color: #666666;
+}
+
+.title{
+	color: #333333;
+	font-size: 20px;
+}
+
+.rub{
+	font-size: 20px;
+
+}
+
+
+
+.cost{
+	font-size: 35px;
+}
