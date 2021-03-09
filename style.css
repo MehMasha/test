@@ -9,10 +9,21 @@ img{
 	border: 1px solid #e2e2e2;
 }
 
+.cards{
+	width: 950px;
+	display: flex;
+	justify-content: space-between;
+}
+
 .cart{
-	width: 50px;
-	height: 40px;
+	width: 20px;
+	height: 20px;
 	background-color: #4ed17b;
+	margin-left: 70px;
+	border-left: 15px solid #4ed17b;
+	border-right: 15px solid #4ed17b;
+	border-top: 10px solid #4ed17b;
+	border-bottom: 10px solid #4ed17b;
 }
 
 .text{
